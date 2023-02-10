@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\bin\Debug\net6.0\case27.exe
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\bin\Debug\net6.0\case27.deps.json
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\bin\Debug\net6.0\case27.runtimeconfig.json
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\bin\Debug\net6.0\case27.dll
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\bin\Debug\net6.0\case27.pdb
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.AssemblyInfo.cs
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.dll
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\refint\case27.dll
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.pdb
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\case27.genruntimeconfig.cache
+C:\Users\HP\Documents\education\05.02.23\c-_sem4\case27\obj\Debug\net6.0\ref\case27.dll
